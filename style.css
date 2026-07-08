@@ -109,7 +109,7 @@ ul,li a{
     gap: 8px;
 }
 .about-box-perent .box{
-    background-color:rgb(233, 225, 212) ;
+    background-color:rgb(234, 230, 223) ;
     padding: 5px;
     border-radius: 5px;
 
@@ -170,7 +170,7 @@ ul,li a{
 }
 
 .resume-item{
-    border-left:4px solid orange;
+    border-left:4px solid  #FD6E0A;
     padding-left:20px;
     margin-bottom:30px;
 }
@@ -180,7 +180,7 @@ ul,li a{
 }
 
 .resume-item h5{
-    color:orange;
+    color: #FD6E0A;
     margin-bottom:10px;
 }
 
@@ -193,7 +193,7 @@ ul,li a{
     display:block;
     margin:40px auto 0;
     padding:6px 10px;
-    background:rgb(243, 112, 19);
+    background: #FD6E0A;
     color:rgb(255, 255, 255);
     border:none;
     border-radius:12px;
@@ -211,6 +211,8 @@ ul,li a{
 
 .my-amazing-perent{
     text-align: center;
+    margin-top: 80px;
+    
 }
 .gallery{
     margin: 20px;
